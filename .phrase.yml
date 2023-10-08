@@ -1,0 +1,21 @@
+phrase:
+  access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
+  project_id: b7eb6c62b0b3732b1219ce89abd53047
+  file format: json
+  
+  
+  push:
+    sources:
+    - file: .API-JSONfile.json
+      params:
+        file_format: json
+        locale_id: c27a162dff6b7281bdae1749537112e9
+        update_translations: true
+        
+        
+  pull:
+    targets:
+    - file: API-JSONfile_<locale_name>.json
+      params:
+        file_format: json
+        locale_id: 4384b6cc9de2db32a0c4de41e25b9738
