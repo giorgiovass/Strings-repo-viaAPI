@@ -6,7 +6,7 @@ phrase:
   
   push:
     sources:
-    - file: ./API-JSONfile.json
+    - file: ./source/API-JSONfile.json
       params:
         file_format: json
         locale_id: c27a162dff6b7281bdae1749537112e9
