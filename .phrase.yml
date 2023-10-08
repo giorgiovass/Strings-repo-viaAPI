@@ -15,7 +15,7 @@ phrase:
         
   pull:
     targets:
-    - file: API-JSONfile_<locale_name>.json
+    - file: .API-JSONfile_<locale_name>.json
       params:
         file_format: json
         locale_id: 4384b6cc9de2db32a0c4de41e25b9738
