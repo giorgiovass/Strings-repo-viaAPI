@@ -1,4 +1,38 @@
 {
-  "num_visits_one": "This page has been visited {{n}} time",
-  "num_visits_other": "This page has been visited {{n}} times"
+  "key1": {
+    "message": ". This is the first text for translation."
+  },
+  "Key2": {
+    "message": "What do you think happens in this place: {state}"
+  },
+  "key3": {
+    "message": "Hi everyone!"
+  },
+  "key4": {
+    "message": "This is my Application!"
+  },
+  "key5": {
+    "message": "MyBrand"
+  },
+  "key6": {
+    "message": "Today is a wonderful day for all of us!"
+  },
+  "key7": {
+    "message": "This is some more text. Please also translate it as well, please."
+  },
+  "key8": {
+    "message": "Today is an good day!"
+  },
+  "key9": {
+    "message": "This is from GitHub, definitely not GitLab!"
+  },
+  "key10": {
+    "message": "This is a translation file that I uploaded via the API on Postman."
+  },
+  "key11": {
+    "message": "This is yet ANOTHER translation file."
+  },
+  "key12": {
+    "message": "This is the last bit of translation."
+  }
 }
